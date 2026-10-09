@@ -1,0 +1,7 @@
+rapidocr_onnxruntime==1.4.4
+Pillow==10.4.0
+requests==2.32.3
+psutil==5.9.5
+pyperclip==1.8.2
+numpy==1.22.4
+opencv-python==4.13.0.90
